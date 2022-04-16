@@ -7,7 +7,7 @@ A bridge for using [FiveM](http://fivem.net/) [vRP 0.5](https://github.com/Imagi
 
 It is done via the [`npm install` command](https://docs.npmjs.com/downloading-and-installing-packages-locally):
 
-> npm install @vrpjs/server
+> npm install @vrpjs0.5/server
 
 ## Usage
 
